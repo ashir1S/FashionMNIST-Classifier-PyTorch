@@ -74,5 +74,7 @@ The dataset is fetched automatically by the notebook via `torchvision.datasets.F
 ## Author
 
 **Ashirwad Sinha**
-MCA Student | AI/ML Enthusiast
-GitHub: [https://github.com/ashir1S](https://github.com/ashir1S)
+Developed by [Ashirwad Sinha](https://github.com/ashir1S)  
+Aspiring AI/ML Engineer | Passionate about PyTorch and Computer Vision
+
+🧠 Built as part of hands-on deep learning exploration using the FashionMNIST dataset.
