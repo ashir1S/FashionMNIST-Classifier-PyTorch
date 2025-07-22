@@ -73,7 +73,6 @@ The dataset is fetched automatically by the notebook via `torchvision.datasets.F
 
 ## Author
 
-**Ashirwad Sinha**
 Developed by [Ashirwad Sinha](https://github.com/ashir1S)  
 Aspiring AI/ML Engineer | Passionate about PyTorch and Computer Vision
 
